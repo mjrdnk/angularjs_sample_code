@@ -1,1 +1,2 @@
-# yakov-assignment2
+# AngularJS sample shopping list application
+Visit 
